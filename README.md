@@ -1,4 +1,4 @@
-# Classroom Task
+# Classroom Management
 
 A [Laravel](https://laravel.com/) web application for managing classroom tasks — built on Laravel 5.8 (PHP), with role/permission-based access control, PDF export, image handling, and DataTables-driven listings.
 
